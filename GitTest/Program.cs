@@ -3,3 +3,4 @@
 Console.WriteLine("Hello, World!");
 
 int nummer = 4;
+string str = "Hello";
